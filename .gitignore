@@ -4,3 +4,5 @@ stuff/
 dist/
 build/
 gitlab_exporter.egg-info/
+*.json
+env.bat
